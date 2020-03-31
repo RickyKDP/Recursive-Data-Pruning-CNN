@@ -6,8 +6,6 @@ import os
 import progressbar
 from Metric.metric import *
 from sklearn import preprocessing
-from filter_fine_tuning.fine_tuning import *
-from filter_init.filter_init import *
 import nltk
 from nltk.corpus import stopwords
 #from tb_embedding_visualization.tensorboard_embedding import embedding_project
